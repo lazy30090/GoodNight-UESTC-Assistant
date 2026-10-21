@@ -1,0 +1,23 @@
+# Local credentials and configuration
+config.json
+
+# Chrome/CDP local data
+.wandao-chrome/
+wandao-chrome/
+*.log
+
+# OS/editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Node/package artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
